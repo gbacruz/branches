@@ -1,21 +1,21 @@
-# Dutch translations for PACKAGE package.
-# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2012.
+# Arabic translations for Weblate Hello World package.
+# Copyright (C) 2014 THE Weblate Hello World'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Weblate Hello World package.
+# Automatically generated, 2014.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Weblate Hello World 2012\n"
 "Report-Msgid-Bugs-To: <noreply@example.net>\n"
-"POT-Creation-Date: 2012-03-14 15:54+0100\n"
-"PO-Revision-Date: 2012-03-05 15:55+0100\n"
+"POT-Creation-Date: 2014-11-19 12:50+0100\n"
+"PO-Revision-Date: 2014-11-19 12:50+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
-"Language: nl\n"
+"Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 #: main.c:11
 #, c-format
