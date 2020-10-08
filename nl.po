@@ -1,5 +1,0 @@
-# {0} is the job title, {1} is the job location
-msgctxt "waldo_policy_notification_intl"
-msgid "{0}</a> job in {1}"
-msgstr "Vacature voor {0}</a> in {1} '''' ''' ''"
-
